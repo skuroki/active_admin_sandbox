@@ -49,3 +49,5 @@ group :development, :test do
 end
 
 gem 'activeadmin', github: 'gregbell/active_admin'
+
+gem 'rails-i18n'
