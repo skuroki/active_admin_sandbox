@@ -1,4 +1,12 @@
 ja:
   active_admin:
     dashboard: "トップページ"
-
+  activerecord:
+    models:
+      item: 道具
+    attributes:
+      item:
+        name: 名前
+        price: 価格
+        created_at: 作成日時
+        updated_at: 更新日時
